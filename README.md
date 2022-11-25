@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## My Skill Stacks
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+#### My Skill Stacks
+<a><img src="https://img.shields.io/badge/#A8B9CC?style=for-the-badge&logo=C&logoColor=#FFFFFF"/></a>
 
 [![Kestrel-omega's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kestrel-omega&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
