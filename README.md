@@ -1,30 +1,35 @@
-### Hi there 👋
+## 🔧 Embedded Software Engineer Jiho.K
 
-#### My Skill Stacks
-<a><img src="https://img.shields.io/badge/#A8B9CC?style=for-the-badge&logo=C&logoColor=#FFFFFF"/></a>
+* [![Kestrel-omega's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kestrel-omega&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kestrel-omega&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+---
+### 🧑🏻‍💻 My Info
 
-[![Kestrel-omega's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kestrel-omega&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+* 🙋🏻‍♂️ Hi, I'm "**Jiho Kim**"
+* 👨🏻‍🎓 I stydied **Eelctronic Engineering** (B.S course) in Myoungji Univ.
+* 🔬 I'm interested in "**Embedded system / Vision / Robotics**"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kestrel-omega&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Kestrel-omega/Kestrel-omega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📨 **jiho604@naver.com** 📄 [**CV**]() 📄 [**Portfolio**]() 🏠 [**Blog**](https://kestrel-legacy.tistory.com)
+---
+### 📚 My Skill Stacks
 
-Here are some ideas to get you started:
+**Computation Language**
+* C / C++ : My main language
+* Python : Just readable
+* Matlab : Used in previous lab
 
-- 🔭 I’m currently unemployed ...
+**Hardware**
+* STM32 (IAR Workbench)
+* Atmega (Atmel Studio)
 
-- 🌱 I’m currently learning ...
+**OS**
+* Debian Linux (Ubuntu Bionic, Rsapberry Buster)
+* ROS Melodic
 
-- 👯 I’m looking to collaborate on ...
+**Libraries**
+* OpenCV
+* OpenGL
 
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
--->
+**Hardware Modeling**
+* Solid Edge (Hardware Modeling)
+* Kicad (PCB Artwork)
