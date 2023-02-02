@@ -5,7 +5,7 @@
 ### 🧑🏻‍💻 My Info
 
 * 🙋🏻‍♂️ Hi, I'm "**Jiho Kim**"
-* 👨🏻‍🎓 I stydied **Eelctronic Engineering** (B.S course) in Myoungji Univ.
+* 👨🏻‍🎓 I studied **Eelctronic Engineering** (B.S course) in Myoungji Univ.
 * 🔬 I'm interested in "**Embedded system / Vision / Robotics**"
 
 * 📨 **jiho604@naver.com** 📄 [**CV**](https://www.notion.so/flying-kestrel-9864/6908bf41ef944c1ea7dfa569b4785c99) 📄 [**Portfolio**]() 🏠 [**Blog**](https://kestrel-legacy.tistory.com)
